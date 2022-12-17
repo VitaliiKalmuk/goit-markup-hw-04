@@ -430,8 +430,8 @@ body {
 }
 
 .customers-link-list {
-  color: #8E8F99;
-  border: 1px solid #8E8F99;
+  color: #8e8f99;
+  border: 1px solid #8e8f99;
   width: 168px;
   height: 88px;
   border-radius: 4px;
@@ -446,19 +446,18 @@ body {
 }
 
 .customers-link-list:hover {
-  color: #4D5AE5;
-  border: 1px solid #4D5AE5;
+  color: #4d5ae5;
+  border: 1px solid #4d5ae5;
 }
 
 .customers-link-list:focus {
-  color: #4D5AE5;
-  border: 1px solid #4D5AE5;
+  color: #4d5ae5;
+  border: 1px solid #4d5ae5;
 }
 
 .customers-list-item:not(:last-child) {
   margin-right: 24px;
 }
-
 
 /* --------------- P O R T F O L I O---------------- */
 
@@ -538,7 +537,8 @@ body {
 }
 
 .gallery-list .item:hover {
-box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
 .gallery-list .item:nth-child(3n) {
